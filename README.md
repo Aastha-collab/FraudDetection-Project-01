@@ -22,7 +22,7 @@ The dataset contains anonymized credit card transaction data with the following 
 - **Visualization:** Matplotlib, Seaborn (scatter plots, boxplots, heatmaps)
 - **Jupyter / Google Colab:** For code execution and documentation
 
---
+---
 
 ## Project Workflow
 
